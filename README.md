@@ -36,6 +36,10 @@ Linear guide from JKK (mod. JKK60-5-P-150-A1-F4) https://jlcmc.com/product/s/B16
 
 For All details on electrical connections, PCB or PCBA you need, Power Supply Unit and more, please visit the original DIY Project here: https://github.com/ChrGri/DIY-Sim-Racing-FFB-Pedal
 
+The Results will be something like this, but 100% aluminium, with no plastic 3D printed parts, and in two color (Blue and Black like the render)
+As soon as i receive the first pieces, i will update images here...
+
+
 
 
 
