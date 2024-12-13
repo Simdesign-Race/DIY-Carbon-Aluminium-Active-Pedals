@@ -17,6 +17,8 @@ Direct link https://discord.com/channels/1113129142142120159/1314604509863084103
 
 As soon as we reach 10 interested users, you will pay for your set, and the order to the supplier will send. It takes about 18/20 days to produce and shipping.
 
+![The Alu Set](https://github.com/Simdesign-Race/DIY-Carbon-Aluminium-Active-Pedals/blob/main/The%20Aluminium%20Set.png "The Alu Set")
+
 The Carbon and Aluminium Set comes already assembled and Ready to use with a Totally assembled Carbon fiber Pedal
 
 ![The Set](https://github.com/Simdesign-Race/DIY-Carbon-Aluminium-Active-Pedals/blob/main/The%20Aluminium%20Set.PNG "The Set")
