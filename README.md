@@ -2,6 +2,8 @@
 
 This is my carbon fiber and aluminium set, for a DIY Active Pedals.
 
+https://github.com/Simdesign-Race/DIY-Carbon-Aluminium-Active-Pedals/blob/main/The%20Aluminium%20Set.PNG
+
 Here you'll find instructions and other information to use it.
 
 The alu set is based on the amazing DIY project of https://github.com/tjfenwick/DIY-Sim-Racing-Active-Pedal , and https://github.com/ChrGri/DIY-Sim-Racing-FFB-Pedal. 
