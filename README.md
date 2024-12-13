@@ -27,6 +27,8 @@ Linear guide from JKK (mod. JKK60-5-P-150-A1-F4) https://jlcmc.com/product/s/B16
 
 180W Motor from Stepperonline https://www.omc-stepperonline.com/fr/servomoteur-integre-easy-nema-23-180w-3000rpm-0-6nm-84-98oz-in-20-50vdc-servomoteur-arbre-court-isv57t-180s
 
+For All details on electrical connections, PCB or PCBA you need, Power Supply Unit and more, please visit the original DIY Project here: https://github.com/ChrGri/DIY-Sim-Racing-FFB-Pedal
+
 
 
 
