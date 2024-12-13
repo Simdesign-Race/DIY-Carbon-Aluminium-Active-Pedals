@@ -11,7 +11,11 @@ Since the minimun production pieces was of 10 complete set, I had the idea to cr
 The idea was very successful and we reached 16 interested users and already launched the first production batch.
 
 We are thinking of opening a new production batch which will once again have to be a minimum of 10 complete sets.
-If you are interested in partecipate to the Purchasing group, please send me an email at: info@fgmedical.it as soon as we reach 10 interested users, you will pay for your set, and the order to the supplier will send. It takes about 18/20 days to produce and shipping.
+If you are interested in partecipate to the Purchasing group, please join the dedicated Discord channel here [Discord server](https://discord.gg/zTfQaxpAUz) and look for this project in the Offerings (Marketplace).
+
+Direct link https://discord.com/channels/1113129142142120159/1314604509863084103
+
+As soon as we reach 10 interested users, you will pay for your set, and the order to the supplier will send. It takes about 18/20 days to produce and shipping.
 
 ![Alt text](https://github.com/Simdesign-Race/DIY-Carbon-Aluminium-Active-Pedals/blob/main/The%20Aluminium%20Set.PNG "The Set")
 
