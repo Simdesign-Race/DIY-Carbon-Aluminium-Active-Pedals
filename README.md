@@ -16,10 +16,18 @@ We are thinking of opening a new production batch which will once again have to 
 
 This Aluminium set is designet to fit different kind of Linear Guide with a maximum stroke of 100mm and a total lenght of 220mm or less. 
 You'll can use two kind of Stepper Motor from Stepperonline. The 130W (highly suggested) or the 180W. 
+
 You will find here link to some example:
 
 Linear guide from Aliexpress (1605 or 1610 Ballscrew 100mm stroke) https://it.aliexpress.com/item/32949212504.html?spm=a2g0o.order_list.order_list_main.29.133e3696bEdljh&gatewayAdapt=glo2ita
+
 Linear guide from JKK (mod. JKK60-5-P-150-A1-F4) https://jlcmc.com/product/s/B16/BQD-JKK60/steel-linear-actuators--kk60-series?k=JKK60-5-P-150-A1-F4&productModelNumber=JKK60-5-P-150-A1-F4
+
+130W Motor from Stepperonline https://www.omc-stepperonline.com/fr/nema-23-servomoteur-simple-integre-130w-3000rpm-0-45nm-63-73oz-in-20-50vdc-servomoteur-arbre-court-isv57t-130s
+
+180W Motor from Stepperonline https://www.omc-stepperonline.com/fr/servomoteur-integre-easy-nema-23-180w-3000rpm-0-6nm-84-98oz-in-20-50vdc-servomoteur-arbre-court-isv57t-180s
+
+
 
 
 
