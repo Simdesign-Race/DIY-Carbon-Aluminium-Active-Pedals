@@ -19,7 +19,7 @@ As soon as we reach 10 interested users, you will pay for your set, and the orde
 
 The Carbon and Aluminium Set comes already assembled and Ready to use with a Totally assembled Carbon fiber Pedal
 
-![Alt text](https://github.com/Simdesign-Race/DIY-Carbon-Aluminium-Active-Pedals/blob/main/The%20Aluminium%20Set.PNG "The Set")
+![The Set](https://github.com/Simdesign-Race/DIY-Carbon-Aluminium-Active-Pedals/blob/main/The%20Aluminium%20Set.PNG "The Set")
 
 This Aluminium set is designet to fit different kind of Linear Guide with a maximum stroke of 100mm and a total lenght of 220mm or less. 
 You'll can use two kind of Stepper Motor from Stepperonline. The 130W (highly suggested) or the 180W. 
@@ -41,7 +41,15 @@ The Results will be something like this, but 100% aluminium, with no plastic 3D 
 ![Alt text](https://github.com/Simdesign-Race/DIY-Carbon-Aluminium-Active-Pedals/blob/main/02.jpeg "The Set")
 
 
-As soon as i receive the first pieces, i will update images here...
+As soon as i receive the first aluminium pieces, i will update images here...
+Hope you enjoiy this amazing project, and thanks to the original Author:
+
+[tjfenwick](https://github.com/tjfenwick) started the project with an initial implementation
+[tcfshcrw](https://github.com/tcfshcrw) helped to elevate the SimHub plugin to its current form, added a ton of new pedal effects, provides support on Discord, is a great guy and much more!
+[MichaelJFr](https://github.com/MichaelJFr) helped by refactoring the code at the beginning of this project. Fruitful discussions let to the implementation of the control-loop strategies
+[Ibakha](https://github.com/Ibakha) Our Discord channel CEO
+[gilphilbert](https://github.com/gilphilbert) developed custom PCB assemblies, refactored the Wiki and created the Web Flash tool
+
 Thank you for reading
 
 
