@@ -38,7 +38,7 @@ For All details on electrical connections, PCB or PCBA you need, Power Supply Un
 
 The Results will be something like this, but 100% aluminium, with no plastic 3D printed parts, and in two color (Blue and Black like the render)
 
-![The First prototype](https://github.com/Simdesign-Race/DIY-Carbon-Aluminium-Active-Pedals/blob/main/02.jpeg "The Set")
+![The First prototype](https://github.com/Simdesign-Race/DIY-Carbon-Aluminium-Active-Pedals/blob/main/02.jpeg "The First Prototype")
 
 As soon as i receive the first aluminium pieces, i will update images here...
 Hope you will enjoiy this amazing project, and thanks to the original Author:
