@@ -17,6 +17,8 @@ Direct link https://discord.com/channels/1113129142142120159/1314604509863084103
 
 As soon as we reach 10 interested users, you will pay for your set, and the order to the supplier will send. It takes about 18/20 days to produce and shipping.
 
+The Carbon and Aluminium Set comes already assembled and Ready to use with a Totally assembled Carbon fiber Pedal
+
 ![Alt text](https://github.com/Simdesign-Race/DIY-Carbon-Aluminium-Active-Pedals/blob/main/The%20Aluminium%20Set.PNG "The Set")
 
 This Aluminium set is designet to fit different kind of Linear Guide with a maximum stroke of 100mm and a total lenght of 220mm or less. 
@@ -33,6 +35,7 @@ Linear guide from JKK (mod. JKK60-5-P-150-A1-F4) https://jlcmc.com/product/s/B16
 180W Motor from Stepperonline https://www.omc-stepperonline.com/fr/servomoteur-integre-easy-nema-23-180w-3000rpm-0-6nm-84-98oz-in-20-50vdc-servomoteur-arbre-court-isv57t-180s
 
 For All details on electrical connections, PCB or PCBA you need, Power Supply Unit and more, please visit the original DIY Project here: https://github.com/ChrGri/DIY-Sim-Racing-FFB-Pedal
+
 
 
 
