@@ -44,9 +44,13 @@ As soon as i receive the first aluminium pieces, i will update images here...
 Hope you will enjoiy this amazing project, and thanks to the original Author:
 
 [tjfenwick](https://github.com/tjfenwick) started the project with an initial implementation
+
 [tcfshcrw](https://github.com/tcfshcrw) helped to elevate the SimHub plugin to its current form, added a ton of new pedal effects, provides support on Discord, is a great guy and much more!
+
 [MichaelJFr](https://github.com/MichaelJFr) helped by refactoring the code at the beginning of this project. Fruitful discussions let to the implementation of the control-loop strategies
+
 [Ibakha](https://github.com/Ibakha) Our Discord channel CEO
+
 [gilphilbert](https://github.com/gilphilbert) developed custom PCB assemblies, refactored the Wiki and created the Web Flash tool
 
 Thank you for reading
