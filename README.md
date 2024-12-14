@@ -14,9 +14,7 @@ The idea was very successful and we reached 16 interested users in 5 days, and a
 
 ### [December 13th, 2024] We are thinking in opening a new production batch to reach again a minimum of 10 complete sets.
 
-If you are interested in partecipate to the Purchasing group, please join the dedicated Discord channel here [Discord server](https://discord.gg/zTfQaxpAUz) and look for this project in the Offerings (Marketplace).
-
-[Direct Discussion link](https://discord.com/channels/1113129142142120159/1314604509863084103)
+If you are interested in partecipate to the Purchasing group, please join the dedicated Discord channel here [Discord server](https://discord.gg/zTfQaxpAUz) and look for this project in the Offerings (Marketplace) [Direct Discussion link](https://discord.com/channels/1113129142142120159/1314604509863084103) or visit [this page](https://github.com/Simdesign-Race/DIY-Carbon-Aluminium-Active-Pedals/wiki/Interested-Users) and write there your contact info
 
 As soon as we reach 10 interested users, I will ask you to pay for your set, and the order to the supplier will start. It takes about 18/20 days to produce and shipping.
 
