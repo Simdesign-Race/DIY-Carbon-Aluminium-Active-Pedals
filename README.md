@@ -4,20 +4,25 @@ This is my carbon fiber and aluminium set, for a DIY Active Pedals.
 
 Here you'll find instructions and other information to use it and buy it.
 
-The alu set is based on the amazing DIY project of https://github.com/tjfenwick/DIY-Sim-Racing-Active-Pedal , and https://github.com/ChrGri/DIY-Sim-Racing-FFB-Pedal. 
-I discovered it some weeks ago, and I was exiting in doing it in a full Carbon Fiber and Aluminium version. 
-I have re-designed all parts and ask to one of my trusted supplier about the opportunity to produce all this parts in Aluminium.
+The alu set is based on the amazing DIY project of [tjfenwick](https://github.com/tjfenwick/DIY-Sim-Racing-Active-Pedal), and [ChrGri](https://github.com/ChrGri/DIY-Sim-Racing-FFB-Pedal). 
+
+I discovered it some weeks ago and after after making my first working piece, I was so exiting in doing it in a full Carbon Fiber and Aluminium version. 
+I have re-designed all parts, and ask to one of my trusted supplier about the opportunity to produce all this parts in Aluminium.
+
 Since the minimun production pieces was of 10 complete set, I had the idea to create a purchasing group to reach this quantity.
-The idea was very successful and we reached 16 interested users and already launched the first production batch.
+The idea was very successful and we reached 16 interested users in 5 days, and already launched the first production batch (1st production started on 12 december)
 
-### [December 13th, 2024] We are thinking in opening a new production batch which will once again have to be a minimum of 10 complete sets.
-If you are interested in partecipate to the Purchasing group, please join the dedicated Discord channel here [Discord server](https://discord.gg/zTfQaxpAUz) and look for this project in the Offerings (Marketplace). [Direct Discussion](https://discord.com/channels/1113129142142120159/1314604509863084103)
+### [December 13th, 2024] We are thinking in opening a new production batch to reach again a minimum of 10 complete sets.
 
-As soon as we reach 10 interested users, you will pay for your set, and the order to the supplier will send. It takes about 18/20 days to produce and shipping.
+If you are interested in partecipate to the Purchasing group, please join the dedicated Discord channel here [Discord server](https://discord.gg/zTfQaxpAUz) and look for this project in the Offerings (Marketplace).
+
+[Direct Discussion link](https://discord.com/channels/1113129142142120159/1314604509863084103)
+
+As soon as we reach 10 interested users, I will ask you to pay for your set, and the order to the supplier will start. It takes about 18/20 days to produce and shipping.
 
 The Carbon and Aluminium Set comes already assembled and Ready to use with a Totally assembled Carbon fiber Pedal
 
-### Here you find [WIKI](https://github.com/Simdesign-Race/DIY-Carbon-Aluminium-Active-Pedals/wiki) for detailded information, instructions, images and more.
+### Here you find [WIKI](https://github.com/Simdesign-Race/DIY-Carbon-Aluminium-Active-Pedals/wiki) for detailded information, BOM, instructions, assembling images and more.
 
 ![The Alu Set](https://github.com/Simdesign-Race/DIY-Carbon-Aluminium-Active-Pedals/blob/main/Images/The%20Aluminium%20Set.png "The Alu Set")
 
