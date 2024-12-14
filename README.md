@@ -22,7 +22,7 @@ As soon as we reach 10 interested users, I will ask you to pay for your set, and
 
 The Carbon and Aluminium Set comes already assembled and Ready to use with a Totally assembled Carbon fiber Pedal
 
-### Here you find [WIKI](https://github.com/Simdesign-Race/DIY-Carbon-Aluminium-Active-Pedals/wiki) for detailded information, [BOM[(https://github.com/Simdesign-Race/DIY-Carbon-Aluminium-Active-Pedals/wiki/BOM), instructions, assembling images and more.
+### Here you find [WIKI](https://github.com/Simdesign-Race/DIY-Carbon-Aluminium-Active-Pedals/wiki) for detailded information, [BOM](https://github.com/Simdesign-Race/DIY-Carbon-Aluminium-Active-Pedals/wiki/BOM), instructions, assembling images and more.
 
 ![The Alu Set](https://github.com/Simdesign-Race/DIY-Carbon-Aluminium-Active-Pedals/blob/main/Images/The%20Aluminium%20Set.png "The Alu Set")
 
