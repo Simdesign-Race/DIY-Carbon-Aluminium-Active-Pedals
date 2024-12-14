@@ -17,13 +17,13 @@ As soon as we reach 10 interested users, you will pay for your set, and the orde
 
 The Carbon and Aluminium Set comes already assembled and Ready to use with a Totally assembled Carbon fiber Pedal
 
-### Here you find [WIKI](https://github.com/Simdesign-Race/DIY-Carbon-Aluminium-Active-Pedals/wiki) for more information
+### Here you find [WIKI](https://github.com/Simdesign-Race/DIY-Carbon-Aluminium-Active-Pedals/wiki) for detailded information, instructions, images and more.
 
 ### Here you find the [BOM](https://github.com/Simdesign-Race/DIY-Carbon-Aluminium-Active-Pedals/wiki/BOM)
 
 ![The Alu Set](https://github.com/Simdesign-Race/DIY-Carbon-Aluminium-Active-Pedals/blob/main/Images/The%20Aluminium%20Set.png "The Alu Set")
 
-This Aluminium set is designet to fit different kind of Linear Guide with a maximum stroke of 100mm and a total lenght of 220mm or less. 
+This Aluminium set is designed to fit different kind of Linear Guide with a maximum stroke of 100mm and a total lenght of 220mm or less. 
 You'll can use two kind of Stepper Motor from Stepperonline. The 130W (highly suggested) or the 180W. 
 
 The Results will be something like this, but 100% aluminium, with no plastic 3D printed parts, and in two color (Blue and Black like the render)
