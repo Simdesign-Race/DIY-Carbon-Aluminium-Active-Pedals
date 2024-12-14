@@ -19,8 +19,6 @@ The Carbon and Aluminium Set comes already assembled and Ready to use with a Tot
 
 ### Here you find [WIKI](https://github.com/Simdesign-Race/DIY-Carbon-Aluminium-Active-Pedals/wiki) for detailded information, instructions, images and more.
 
-### Here you find the [BOM](https://github.com/Simdesign-Race/DIY-Carbon-Aluminium-Active-Pedals/wiki/BOM)
-
 ![The Alu Set](https://github.com/Simdesign-Race/DIY-Carbon-Aluminium-Active-Pedals/blob/main/Images/The%20Aluminium%20Set.png "The Alu Set")
 
 This Aluminium set is designed to fit different kind of Linear Guide with a maximum stroke of 100mm and a total lenght of 220mm or less. 
