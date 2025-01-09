@@ -27,12 +27,11 @@ The Carbon and Aluminium Set comes already assembled and Ready to use with a Tot
 This Aluminium set is designed to fit different kind of Linear Guide with a maximum stroke of 100mm and a total lenght of 220mm or less. 
 You'll can use two kind of Stepper Motor from Stepperonline. The 130W (highly suggested) or the 180W. 
 
-The Results will be something like this, but 100% aluminium, with no plastic 3D printed parts, and in two color (Blue and Black like the above render)
+### This is the final result:
 
-![The First prototype](https://github.com/Simdesign-Race/DIY-Carbon-Aluminium-Active-Pedals/blob/main/Images/02.jpeg "The First Prototype")
+![The result](https://github.com/Simdesign-Race/DIY-Carbon-Aluminium-Active-Pedals/blob/main/Images/20250108_030147.jpg)
 
-As soon as i receive the first aluminium pieces, i will update images here...
-Hope you will enjoiy this amazing project, and thanks to the original Author:
+### thanks to:
 
 [tjfenwick](https://github.com/tjfenwick) started the project with an initial implementation
 
