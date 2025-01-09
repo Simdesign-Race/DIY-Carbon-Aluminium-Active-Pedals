@@ -10,9 +10,9 @@ I discovered it some weeks ago and after after making my first working piece, I 
 I have re-designed all parts, and ask to one of my trusted supplier about the opportunity to produce all this parts in Aluminium.
 
 Since the minimun production pieces was of 10 complete set, I had the idea to create a purchasing group to reach this quantity.
-The idea was very successful and we reached 16 interested users in 5 days, and already launched the first production batch (1st production started on 12 december)
+The idea was very successful and we reached 16 interested users in 5 days, and already produced the first production batch (1st production started on 12 december)
 
-### 13 December 2024 We are thinking in opening a new production batch to reach again a minimum of 10 complete sets.
+### 8 jenuary 2025: started a new purchasing group, to reach again a minimum of 10 complete sets.
 
 If you are interested in partecipate to the Purchasing group, please join the dedicated Discord channel here [Discord server](https://discord.gg/zTfQaxpAUz) and look for this project in the Offerings (Marketplace) [Direct Discussion link](https://discord.com/channels/1113129142142120159/1314604509863084103)
 
